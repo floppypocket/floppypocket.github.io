@@ -151,7 +151,6 @@ yet another infectious cruise ship in limbo. The “pandemic imaginary” of fea
 continuously expands and time blurs (see Mathew’s piece in the previous section).
 In contrast, the mandate to stay at home is pitched as a patriotic and active duty
 against border anxieties during crisis, against any unplanned cross-contamination
-
 with an invisible other. Working with the starter gives us unconscious moments
 of breaking these boundaries of constructed fear—daily repetition with the fer-
 menting starter is risky but also sediments in daily life as a regularity. To fully
