@@ -1,3 +1,12 @@
+---
+title: "Photos"
+date: 2021-03-16T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - update
+---
+
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
